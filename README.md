@@ -1,1 +1,2 @@
-# ejercicio1
+# exercise 1
+Build a list containing time slots, in 30 min intervals. Let it start at 8 a.m. and end at 8 p.m. That is, a table with a block that starts at 8, then 8.30, 9, 9 30... like this until 8pm The company has availability of 8 motorcyclists every 30 min When someone clicks on one of these boxes they should take a biker resource That is, a counter that starts at 8 and then goes down to 7, in addition to marking the box in green If the same user clicks on the same box, they must release the resource, if it was green, they must release the resource, that is, the counter goes from 7 to 8 again If other users have taken all the motorcyclists, the box should appear in red and it should not let me take that schedule
